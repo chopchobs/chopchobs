@@ -2,31 +2,22 @@
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
 - 🔭 I’m currently working on **Self-training from YouTube**
-
 - 🌱 I’m currently learning **Framework**
-
 - 👯 I’m looking to collaborate on **or you can invite me for your project**
-
 - 🤝 I’m looking for help with **Develop thinking and teamwork**
-
-- 👨‍💻 All of my projects are available at [ssss](link)
-
-- 📝 I regularly write articles on [sss](link)
-
+- 👨‍💻 All of my projects are available at [none](link)
+- 📝 I regularly write articles on [none](link)
 - 💬 Ask me about **React, Nexjs**
-
 - 📫 How to reach me **iuiowerchop@hotmail.com**
-
-- 📄 Know about my experiences [ssss](link)
-
+- 📄 Know about my experiences [none](link)
 - ⚡ Fun fact **I think that I'm so funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/chopchobs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/chopchobs" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/chopchobs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/chopchobs" /></a></p>
+<br>
+<br>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
