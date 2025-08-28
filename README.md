@@ -1,7 +1,27 @@
 <h1 align="center">Chop Nattapon S. 🐳</h1>
 <br>
 <br>
+<h3 align="center">A passionate frontend developer from Thailand</h3>
 
+- 🔭 I’m currently working on **Self-training from YouTube**
+
+- 🌱 I’m currently learning **Framework**
+
+- 👯 I’m looking to collaborate on **or you can invite me for your project**
+
+- 🤝 I’m looking for help with **Develop thinking and teamwork**
+
+- 👨‍💻 All of my projects are available at [ssss](ssss)
+
+- 📝 I regularly write articles on [sss](sss)
+
+- 💬 Ask me about **react, nexjs**
+
+- 📫 How to reach me **iuiowerchop@hotmail.com**
+
+- 📄 Know about my experiences [ssss](ssss)
+
+- ⚡ Fun fact **I think that I'm so funny**
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
