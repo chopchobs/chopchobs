@@ -16,11 +16,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chopchobs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/chopchobs" /></a></p>
 <br>
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCDfY79ppxrq1qyVcTS_GWmw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
+<br><br>
 <br>
 <br>
 <br>
