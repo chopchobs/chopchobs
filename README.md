@@ -1,6 +1,4 @@
 <h1 align="center">Chop Nattapon S. 🐳</h1>
-<br>
-<br>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
 - 🔭 I’m currently working on **Self-training from YouTube**
@@ -11,15 +9,15 @@
 
 - 🤝 I’m looking for help with **Develop thinking and teamwork**
 
-- 👨‍💻 All of my projects are available at [ssss](ssss)
+- 👨‍💻 All of my projects are available at [ssss](link)
 
-- 📝 I regularly write articles on [sss](sss)
+- 📝 I regularly write articles on [sss](link)
 
-- 💬 Ask me about **react, nexjs**
+- 💬 Ask me about **React, Nexjs**
 
 - 📫 How to reach me **iuiowerchop@hotmail.com**
 
-- 📄 Know about my experiences [ssss](ssss)
+- 📄 Know about my experiences [ssss](link)
 
 - ⚡ Fun fact **I think that I'm so funny**
 <div align="center">
