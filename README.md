@@ -11,7 +11,6 @@
 - 📫 How to reach me **iuiowerchop@hotmail.com**
 - 📄 Know about my experiences [none](link)
 - ⚡ Fun fact **I think that I'm so funny**
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 <h3 align="left">Support:</h3>
@@ -31,7 +30,7 @@
 <br>
 <br>
 <br>
-<br>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
@@ -61,6 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
 </div>
 <br>
+<h3 align="left">Connect with me:</h3>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
