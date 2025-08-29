@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
 - 🔭 I’m currently working on **Self-training from YouTube**
-- 🌱 I’m currently learning **Framework**
+- 🌱 I’m currently learning **Framework and learning new skills.**
 - 👯 I’m looking to collaborate on **or you can invite me for your project**
 - 🤝 I’m looking for help with **Develop thinking and teamwork**
 - 👨‍💻 All of my projects are available at [none](link)
