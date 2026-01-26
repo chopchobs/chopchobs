@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<div align="center">
+<div align="left">
 
 - 🔭 I’m currently working on **[E-Commerce Platform (PERN Stack)](https://github.com/chopchobs/e-commerce-market-place)**
 - 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
