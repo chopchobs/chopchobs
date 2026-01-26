@@ -1,77 +1,72 @@
-<h1 align="center">Chop Nattapon S. 🐳</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h1 align="center">Hi there, I'm Chop Nattapon S. 👋</h1>
+<h3 align="center">🚀 Aspiring Full-Stack Developer from Thailand</h3>
 
-- 🔭 I’m currently working on **Self-training from YouTube**
-- 🌱 I’m currently learning **Framework and learning new skills.**
-- 👯 I’m looking to collaborate on **or you can invite me for your project**
-- 🤝 I’m looking for help with **Develop thinking and teamwork**
-- 👨‍💻 All of my projects are available at [none](link)
-- 📝 I regularly write articles on [none](link)
-- 💬 Ask me about **React, Nexjs**
-- 📫 How to reach me **iuiowerchop@hotmail.com**
-- 📄 Know about my experiences [none](link)
-- ⚡ Fun fact **I think that I'm so funny**
-<p align="left">
+<p align="center">
+  <a href="https://github.com/chopchobs/e-commerce-market-place">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=I+build+Full-Stack+Web+Applications;I+love+React,+Node.js,+and+PostgreSQL;Always+learning+new+technologies..." alt="Typing SVG" />
+  </a>
 </p>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/chopchobs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/chopchobs" /></a></p>
-<br>
-<br><br>
-<br>
-<br>
-<br>
-<h3 align="left">Languages and Tools:</h3>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
+
+- 🔭 I’m currently working on **[E-Commerce Platform (PERN Stack)](https://github.com/chopchobs/e-commerce-market-place)**
+- 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
+- 👯 I’m looking to collaborate on **Open Source projects & Web Applications**
+- 🤝 I’m looking for help with **Code Review & Best Practices**
+- 👨‍💻 All of my projects are available at **[My GitHub Repos](https://github.com/chopchobs?tab=repositories)**
+- 💬 Ask me about **React, Node.js, Prisma, PostgreSQL**
+- 📫 How to reach me **iuiowerchop@hotmail.com**
+- ⚡ Fun fact **I turn coffee into code ☕**
+
 </div>
+
 <br>
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://t.me/chopchobs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,ts,js,html,css" alt="Frontend Tools" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,supabase,mongodb,mysql" alt="Backend & DB" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vercel,vscode" alt="DevOps & Tools" />
+</div>
+
+<br>
+
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chopchobs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chopchobs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages graph"  />
+</div>
+
+<br>
+
+<h3 align="center">🤝 Connect with me</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/nattapon-sopontanapat-8b98832a5/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:iuiowerchop@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=microsoftoutlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
   </a>
   <a href="https://www.facebook.com/cchopnts" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://wa.me/66910303399" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
   <a href="https://www.instagram.com/chopchobs/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=chopchop.chopchop&right_color=hotpink"  />
+<h3 align="center">☕ Support Me</h3>
+<div align="center">
+<a href="https://www.buymeacoffee.com/chopchobs"> 
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/chopchobs" />
+</a>
+</div>
+
+<br>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=chopchobs.chopchobs&right_color=hotpink" />
+</div>
