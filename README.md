@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Chop Nattapon S. 👋</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer from Thailand</h3>
+<h3 align="center">🚀 Junior Full-Stack Developer from Thailand</h3>
 
 <p align="center">
   <a href="https://github.com/chopchobs/e-commerce-market-place">
