@@ -17,7 +17,7 @@
 - 💡 Focus: **Next.js, React, Node.js, PostgreSQL, and SEO-optimized Architecture**
 - 🎓 Background: **BBA Graduate** translating business requirements into robust tech solutions
 - 💬 Ask me about: **Full-Stack Development, Database Design, RBAC Security**
-- 📫 Reach me at: **iuiowerchop@hotmail.com**
+- 📫 Reach me at: **chopchat.dev@gmail.com**
 
 <br>
 
